@@ -75,7 +75,7 @@ export const managers = [
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
          "location": "West Des Moines, Iowa", // (optional)
          "bio": "ddd",
-         //"photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+         "photo": "/managers/Kyle.JPEG", // square ratio recommended (no larger than 500x500)
          "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "det", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -145,7 +145,7 @@ export const managers = [
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
          "location": "Iowa City, Iowa", // (optional)
          "bio": "ddd",
-         //"photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+         "photo": "/managers/Nolan.JPG", // square ratio recommended (no larger than 500x500)
          "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -168,7 +168,7 @@ export const managers = [
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
          "location": "West Branch, Iowa", // (optional)
          "bio": "ddd",
-         //"photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+         "photo": "/managers/Hauser.JPEG", // square ratio recommended (no larger than 500x500)
          "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
