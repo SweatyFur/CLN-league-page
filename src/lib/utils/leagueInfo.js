@@ -2,7 +2,7 @@
 export const leagueID = "1049456153182724096"; // your league ID
 export const leagueName = "Cool League Name"; // your league name
 export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
@@ -41,7 +41,7 @@ export const managers = [
          "favoritePlayer": 6777, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
          "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
          "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-        "philosophy": "When it comes to wide receivers, Stack em' deep and sell em' cheap.", // (optional)
+         "philosophy": "When it comes to wide receivers, Stack em' deep and sell em' cheap.", // (optional)
          "tradingScale": 6, // 1 - 10 (optional)
     //   "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
