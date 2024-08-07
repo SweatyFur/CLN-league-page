@@ -51,7 +51,7 @@ export const managers = [
          "name": "Gabe Simpson",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
          "location": "Colfax, Iowa", // (optional)
-         "bio": "Lorem ipsum...",
+         "bio": "Gabe is a teacher in the Colfax Mingo School District where he also coaches just about every sport. He is married and has a baby boy. Gabe already has a full trophy room and looks to add more this season.",
          "photo": "/managers/Gabe.JPEG", // square ratio recommended (no larger than 500x500)
          "fantasyStart": 2010, // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
