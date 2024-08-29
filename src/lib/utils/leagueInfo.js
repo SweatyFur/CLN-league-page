@@ -28,11 +28,11 @@ export const managers = [
          "name": "Ryan Murphy",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
          "location": "North Liberty, Iowa", // (optional)
-         "bio": "Lorem ipsum...",
+         "bio": "Ryan works for NCIS. Or is it NISC. Married to the lovely Karlee Murphy and knows tons of ball. Your fearless commissioner.",
          "photo": "/managers/Ryan.jpg", // square ratio recommended (no larger than 500x500)
          "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
          "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-         "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
+         //"mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
          "rival": {
            name: "Gabe Simpson", // Can be anything (usually your rival's name)
            link: 2, // manager array number within this array, or null to link back to all managers page
