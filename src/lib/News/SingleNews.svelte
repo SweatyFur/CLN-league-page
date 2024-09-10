@@ -115,7 +115,7 @@
 
 <Paper class="article" elevation=3>
     <Title class="article-title">
-        <img class="icon" src="{article.icon}" alt="article thumbnial" />
+        <img class="icon" src="{article.icon}" alt="article thumbnail" />
         {#if article.link}
             <a href="{article.link}" target="_blank" class="title-link">{article.title}</a>
         {:else}
