@@ -317,7 +317,7 @@ export const managers = [
       "managerID": "606959285099917312",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Anders Almberg",
       "location": "Coralville, Iowa", // (optional)
-      "bio": "A league Bro, Anders is always down to talk ball with the boys. Staying true to his Sweedish roots, Anders keeps a level head and avoids as much of the league drama as he can.",
+      "bio": "A league Bro, Anders is always down to talk ball with the boys. Staying true to his Swedish roots, Anders keeps a level head and avoids as much of the league drama as he can.",
       "photo": "/managers/Ders.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
