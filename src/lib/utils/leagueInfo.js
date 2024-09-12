@@ -272,7 +272,7 @@ export const managers = [
       "managerID": "607310039975272448",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Caleb Fruhling",
       "location": "Cedar Rapids, Iowa", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "An uber talented musician, and medium talented fantasy manager, Caleb made his way home to Cedar Rapids and started a family. Some say he uses the power of music to convince fellow league mates to give up their best players. Beware.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "chc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -284,9 +284,9 @@ export const managers = [
       },
       "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-      "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Your fantasy team's philosophy", // (optional)
-      "tradingScale": 10, // 1 - 10 (optional)
+      "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
+      "philosophy": "Trade away all your assets for future draft picks that get taken away from you by the league and also start trade negotions with 'how much can I get out of you for this player'.", // (optional)
+      "tradingScale": 9, // 1 - 10 (optional)
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
         {
@@ -294,7 +294,7 @@ export const managers = [
       "managerID": "731219307652059136",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Jack Murphy",
       "location": "Iowa City, Iowa", // (optional)
-      "bio": "A relatively new player to fantasy Jack taps int",
+      "bio": "A relatively new player to fantasy Jack taps into his love for Iowa State (F State) and the wisdom of his 2 year old daughter (she's wicked smart) for fantasy strategy. Jack returns to the PM&B after being a part of the CLNs inaugural season in 2021.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -316,8 +316,8 @@ export const managers = [
       //Anders Manager page
       "managerID": "606959285099917312",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Anders Almberg",
-      "location": "Tiffin, Iowa", // (optional)
-      "bio": "Lorem ipsum...",
+      "location": "Coralville, Iowa", // (optional)
+      "bio": "A league Bro, Anders is always down to talk ball with the boys. Staying true to his Sweedish roots, Anders keeps a level head and avoids as much of the league drama as he can.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "chc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -340,9 +340,9 @@ export const managers = [
       "managerID": "737887958132219904",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Alan Mazzarella",
       "location": "Greeley, Colorado", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Fighting Fires and saving lives, Alan is a real frontline worker out in beautiful Colorado. New to both fantasy and marriage, you can always count on Alan to pick the right Birds. E-A-G-L-E-S EAGLES!",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2022, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
@@ -352,9 +352,9 @@ export const managers = [
                },
       "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-      "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Your fantasy team's philosophy", // (optional)
-      "tradingScale": 10, // 1 - 10 (optional)
+      "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
+      "philosophy": "Pewpewpew I shoot at you!", // (optional)
+      "tradingScale": 6, // 1 - 10 (optional)
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
 
@@ -364,10 +364,10 @@ export const managers = [
       "managerID": "607752879746404352",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Jacob Rhein",
       "location": "Iowa City, Iowa", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "The University of Iowa's Tippie College of Business has many roots in the PM&B, none of them stronger than Jacob aka Billy Bean. Analytics drive every decision he makes including two of his biggest; Being a Steelers fan, and getting married to Avery.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2008, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Rival", // Can be anything (usually your rival's name)
