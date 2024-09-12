@@ -291,7 +291,7 @@ export const managers = [
     },
         {
       //Jack Murphy Manager Page
-      "managerID": "731219307652059136",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      "managerID": "730817233667870720",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Jack Murphy",
       "location": "Iowa City, Iowa", // (optional)
       "bio": "A relatively new player to fantasy Jack taps into his love for Iowa State (F State) and the wisdom of his 2 year old daughter (she's wicked smart) for fantasy strategy. Jack returns to the PM&B after being a part of the CLNs inaugural season in 2021.",
