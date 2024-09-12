@@ -199,7 +199,7 @@ export const managers = [
          "philosophy": "Draft a trusty QB, draft high caliber receivers, and pickup running backs later", // (optional)
          "tradingScale": 6, // 1 - 10 (optional)
          "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    }
+    },
          {
       // Camden Glenn Manager Page
       "managerID": "601841724330942464",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
