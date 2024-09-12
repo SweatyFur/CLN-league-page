@@ -252,7 +252,7 @@ export const managers = [
       "bio": "Jordan is a frontline healthcare hero analyzing the UHC's data. Recently married he will look to his wife's experience with the Iowa football team for guidance for fantasy strategy. Jordan always has irrationally high hopes for his Bears and his fantasy squad. ",
       "photo": "/managers/Jordan.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "ch", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "The draft", // Can be anything (usually your rival's name)
@@ -275,7 +275,7 @@ export const managers = [
       "bio": "An uber talented musician, and medium talented fantasy manager, Caleb made his way home to Cedar Rapids and started a family. Some say he uses the power of music to convince fellow league mates to give up their best players. Beware.",
       "photo": "/managers/Caleb.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "ch", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Cole Williams", // Can be anything (usually your rival's name)
@@ -320,7 +320,7 @@ export const managers = [
       "bio": "A league Bro, Anders is always down to talk ball with the boys. Staying true to his Sweedish roots, Anders keeps a level head and avoids as much of the league drama as he can.",
       "photo": "/managers/Ders.jpeg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2020, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "ch", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Kyle Martens", // Can be anything (usually your rival's name)
