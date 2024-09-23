@@ -325,21 +325,39 @@
     <ol>
         <p>North</p>
         <ul>Cole Borwick</ul>
-
-
-
-
-
+        <ul>Jordan Gunti</ul>
+        <ul>Caleb Fruhling</ul>
+        <ul>Ryan Murphy</ul>
     </ol>
 
-        
+    <ol>
+        <p>South</p>
+        <ul>Camden Glenn</ul>
+        <ul>Jacob Rhein</ul>
+        <ul>Nolan Osland</ul>
+        <ul>Jack Murphy</ul>
+    </ol>
+
+    <ol>
+        <p>East</p>
+        <ul>Cole Williams</ul>
+        <ul>Casey Blaylock</ul>
+        <ul>Austin Kloewer</ul>
+        <ul>Anders Almberg</ul>
+    </ol>
+
+    <ol>
+        <p>West</p>
+        <ul>Kyle Martens</ul>
+        <ul>Cole Hauser</ul>
+        <ul>Alan Mazzarella</ul>
+        <ul>Gabe Simpson</ul>
+    </ol>
 
 
-
-
-
-
-
+    <h3 bind:this={nineThree}>9.3 Commissioner</h3>
+    <p>The role of the Commissioner is often vague and challenging, but is rewarding and necessary. The goal of the Commissioner is to uphold the integrity and maintain the administration of the league. The current Commissioner is Ryan Murphy. To fight against abuse of power, here is an ongoing list of actions performed by the Commissioner that fall under the consent of the league in the past:</p>
+        <ul>Allowing a Manager to reselect a draft pick due to a misclick followed by an immediate burst of regret</ul>
 
 
 
