@@ -274,9 +274,9 @@
     <h3 bind:this={sevenOne}>7.1 League Dues</h3>
     <p>There are no set league dues. However, two situations arise where leaguemates might have to pay up..</p>
     
-        <ol>First, the Commissioner is in charge of purchasing the championship ring each year. The Commissioner will request funds for the ring at any time throughout the year. When requested, leaguemates will consider a freewill offering to the ring fund. Your offering should be taken seriously. We have all seen the joy a ring brings to our women, and what a joyful tradition it is to see grown men receive a championship ring.</ol>
+    <p>First, the Commissioner is in charge of purchasing the championship ring each year. The Commissioner will request funds for the ring at any time throughout the year. When requested, leaguemates will consider a freewill offering to the ring fund. Your offering should be taken seriously. We have all seen the joy a ring brings to our women, and what a joyful tradition it is to see grown men receive a championship ring.</p>
 
-        <ol>Second, draft weekend costs. Please pay a fair share for costs incurred or be willing to make a contribution. Food, beer, cigarettes, cigars, etc. are all items that contribute to a fun weekend for all. Don’t be that guy who has to be reminded multiple times to pay up on venmo.</ol>
+        <p>Second, draft weekend costs. Please pay a fair share for costs incurred or be willing to make a contribution. Food, beer, cigarettes, cigars, etc. are all items that contribute to a fun weekend for all. Don’t be that guy who has to be reminded multiple times to pay up on venmo.</p>
     
 
     <h3 bind:this={sevenTwo}>7.2 Payout</h3>
