@@ -258,7 +258,7 @@
         <li>Coin Flip</li>
     </ol>
 
-    <p>If two teams Wildcard eligible teams finish with the same overall record the tiebreakers will go as follows:</p>
+    <p>If two Wildcard eligible teams finish with the same overall record the tiebreakers will go as follows:</p>
 
     <ol>
         <li>Head 2 Head Record</li>
