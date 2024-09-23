@@ -296,7 +296,7 @@
     <h2 class="sectionHeading" bind:this={eight}>Section 8 League Voting</h2>
     <h3 bind:this={eightOne}>8.1 Voting</h3>
     <p>In the event that the League Constitution needs amended, each Manager is given 1 vote on matters brought up to the league. The Commissioner will conduct a poll and will not be included in the vote. The poll will be posed in the form of a question, where voting “Yes” changes matters of the league, and voting “No” leaves matters the same.</p>
-    <p>If the vote receives 10 or more Yeses (75%), it will be passed immediately. If the vote receives 7-9 Yeses from the league, the Commissioner will make the decision. If the vote receives 6 or less Yeses, the change will not be made.</p>
+    <p>If the vote receives 9 or more Yeses, it will be passed immediately. If the vote receives 8 or fewer Yeses, the change will not be made.</p>
     <p>Votes by Managers need to be made in a timely manner. If a Manager fails to vote, it will be counted as a “No.” If a significant amount of Managers fail to vote or abstain from voting, the Commissioner will make the final decision.</p>
     
 
