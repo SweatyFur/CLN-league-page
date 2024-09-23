@@ -144,15 +144,15 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>7.2 Payout</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>7.3 Raising Dues</h4>
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 8: League Voting</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(eight)}>Section 8: League Voting</h3>
 
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>8.1 Voting</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(eightOne)}>8.1 Voting</h4>
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 9: Misc League Information</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(nine)}>Section 9: Misc League Information</h3>
 
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>9.1 League Makeup</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>9.2 Divisions</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>9.3 Commissioner</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(nineOne)}>9.1 League Makeup</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(nineTwo)}>9.2 Divisions</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(nineThree)}>9.3 Commissioner</h4>
     
     <hr />
     
