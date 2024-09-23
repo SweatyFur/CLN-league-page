@@ -143,7 +143,16 @@
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>7.1 League Dues</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>7.2 Payout</h4>
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>7.3 Raising Dues</h4>
-    
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 8: League Voting</h3>
+
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>8.1 Voting</h4>
+
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 9: Misc League Information</h3>
+
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>9.1 League Makeup</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>9.2 Divisions</h4>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>9.3 Commissioner</h4>
     
     <hr />
     
@@ -308,6 +317,19 @@
         <li>Jordan Gunti</li>
         <li>Kyle Martens</li>
         <li>Nolan Osland</li>
+    </ol>
+
+
+    <h3 bind:this={sevenTwo}>9.1 Divisions</h3>
+
+    <ol>
+        <p>North</p>
+        <ul>Cole Borwick</ul>
+
+
+
+
+
     </ol>
 
         
