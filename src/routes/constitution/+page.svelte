@@ -248,7 +248,7 @@
     <p>At the end of the season, 7 teams will make the playoffs. It will work like one side of the NFL playoffs.. The first round of playoffs will commence in week 15. Each team that wins their division and the 3 wild card teams that finish with the best records, will receive a playoff berth. The team with the best record will receive a bye week in the first round of the playoffs. Each playoff matchup will only last one week and the winner will advance. Week 18 will not be used.</p>
     
     <h3 bind:this={fourTwo}>4.2 Seeding Tiebreakers</h3>
-    <p>If two teams within the same division finish tie for first place with the same overall record the tiebreakers will go as follows:</p>
+    <p>If two teams within the same division finish tied for first place with the same overall record the tiebreakers will go as follows:</p>
 
     <ol>
         <li>Head 2 Head Record</li>
