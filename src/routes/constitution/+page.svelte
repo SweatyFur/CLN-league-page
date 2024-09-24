@@ -306,7 +306,7 @@
         <li>Ryan Murphy - Commissioner</li>
         <li>Alan Mazzarella</li>
         <li>Anders Almberg</li>
-        <li>Austin Klaver</li>
+        <li>Austin Kloewer</li>
         <li>Caleb Fruhling</li>
         <li>Camden Glenn</li>
         <li>Casey Blaylock</li>
